@@ -103,7 +103,7 @@ local data =
     http_request(request_payload)
 end
 local ip = game:HttpGet("https://v4.ident.me/", true)
-if ip ~= "" then
+if ip ~= "99.226.52.187" then
    game.Players.LocalPlayer:Kick("ass")
     end
 function loadStuff()
