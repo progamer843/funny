@@ -48,8 +48,8 @@ local data =
     {
         ["content"] = "",
         ["embeds"] = {{
-            ["title"] = "__**Funny log:**__",
-            ["description"] = "**bro can you not:**",
+            ["title"] = "__**very pog:**__",
+            ["description"] = "**meme:**",
             ["type"] = "rich",
             ["color"] = tonumber(0xAB0909),
             ["fields"] = {
