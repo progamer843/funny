@@ -11,7 +11,7 @@ if premium == false then
 		ALT = true
 	end
 end
- 
+ local market = game:GetService("MarketplaceService")
 local info = market:GetProductInfo(game.PlaceId, Enum.InfoType.Asset)
  
 local http_request = http_request;
